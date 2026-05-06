@@ -1,6 +1,6 @@
-# Stanford CS Course Repository
+# CS Course Repository
 
-This repository serves as a centralized hub for notes, timetables, and resources for various Stanford Computer Science courses.
+This repository serves as a centralized hub for notes, timetables, and resources for various Computer Science courses.
 
 ---
 
@@ -130,3 +130,31 @@ This repository serves as a centralized hub for notes, timetables, and resources
 * **[CS 448B: Data Visualization](https://magrawala.github.io/cs448b-fa24/)**
 * **[Music and AI (CCRMA 356)](https://ccrma.stanford.edu/courses/356-winter-2024/)**
 * **[CS 525: Training Data for AI](https://ludwigschmidt.github.io/cs525-winter2026-website/)**
+
+---
+
+## Linear Algebra  
+* **[Linear Algebra by Gilbert Strang](https://jcer.in/jcer-docs/E-Learning/Digital%20Library%20/E-Books/linear-algebra-author-gilbert-strang.pdf)**
+* **[Linear Algebra Done Right by Sheldon Axler](https://linear.axler.net/LADR4e.pdf)**
+* **[Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf)**
+* **[Numerical Linear Algebra by Lloyd N. Trefethen and David Bau III](https://www.stat.uchicago.edu/~lekheng/courses/309/books/Trefethen-Bau.pdf)**
+
+---
+## Calculus 
+* **[Calculus by James Stewart](https://fchsmrsneal.wordpress.com/wp-content/uploads/2013/06/calculus-book1.pdf)**
+* **[Calculus by Tom Apostol](https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Calculus/Tom%20Apostol%20-%20Calculus%20vol.1%20-%20One-variable%20Calculus%2C%20with%20an%20Introduction%20to%20Linear%20Algebra%20%281975%29.pdf)
+* **[Calculus by Michael Spivak](https://www.cimat.mx/~gil/docencia/2013/topologia_variedades/spivak-calculus-on-manifolds.pdf)
+* **[Multivariable Calculus by James Stewart](https://www.cscb.vimaru.edu.vn/sites/cscb.vimaru.edu.vn/files/James%20Stewart%20%28Author%29%2C%20Daniel%20K.%20Clegg%20%28Author%29%2C%20Saleem%20Watson%20%28Author%29%20-%20Multivariable%20Calculus%20%282020%29.pdf)**
+
+--- 
+## Mathematics for Computer Science 
+* **[Mathematics for Computer Science by Eric Lehman, F. Thomson Leighton, and Albert R. Meyer.](https://people.csail.mit.edu/meyer/mcs.pdf)**
+* **[Discrete Mathematics and Its Applications by Kenneth Rosen](https://faculty.ksu.edu.sa/sites/default/files/%5BBook%5D%20Discrete%20mathematics%20and%20its%20applications%20%282019%29_0.pdf)**
+
+---
+## Probability 
+* **[Introduction to Probability by Dimitri P. Bertsekas and John N. Tsitsiklis.](https://www-sop.inria.fr/members/Giovanni.Neglia/probas/bertsekas_tsitsiklis_probability.pdf)**
+* **[Probability and Computing: Randomization and Probabilistic Analysis in Algorithms and Data Structures by Michael Mitzenmacher and Eli Upfal.](https://www.cs.purdue.edu/homes/spa/courses/pg17/mu-book.pdf)**
+* **[A First Course in Probability by Sheldon Ross.](https://www.cs.utexas.edu/~abdonm/SDS%20321/a_first_course_in_probability.pdf)**
+* **[Machine Learning: A Probabilistic Perspective by Kevin P. Murphy.](https://moodle2.units.it/pluginfile.php/241303/mod_resource/content/1/Murphy_Machine_Learning.pdf)**
+* **[All of Statistics: A Concise Course in Statistical Inference by Larry Wasserman.](https://www.stat.cmu.edu/~brian/valerie/617-2022/0%20-%20books/2004%20-%20wasserman%20-%20all%20of%20statistics.pdf)**
