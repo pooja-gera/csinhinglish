@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # 1-Year CS Mastery Timetable
 
 ### Strategy:
