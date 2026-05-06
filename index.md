@@ -162,3 +162,7 @@ This repository serves as a centralized hub for notes, timetables, and resources
 * **[A First Course in Probability by Sheldon Ross.](https://www.cs.utexas.edu/~abdonm/SDS%20321/a_first_course_in_probability.pdf)**
 * **[Machine Learning: A Probabilistic Perspective by Kevin P. Murphy.](https://moodle2.units.it/pluginfile.php/241303/mod_resource/content/1/Murphy_Machine_Learning.pdf)**
 * **[All of Statistics: A Concise Course in Statistical Inference by Larry Wasserman.](https://www.stat.cmu.edu/~brian/valerie/617-2022/0%20-%20books/2004%20-%20wasserman%20-%20all%20of%20statistics.pdf)**
+
+---
+
+# [Timetable](./timetable.md)
